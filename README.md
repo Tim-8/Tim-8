@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tim-8&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
 
-[_CI_AIE_B_badge..pdf](https://github.com/Tim-8/Tim-8/files/7807545/_CI_AIE_B_badge.pdf)
+
 
 
 <!--[![](https://raw.githubusercontent.com/Tim-8/Tim-8/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
