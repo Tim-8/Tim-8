@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 ![look](https://komarev.com/ghpvc/?username=Tim-8)
 
