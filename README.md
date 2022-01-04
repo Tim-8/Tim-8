@@ -8,6 +8,8 @@
 
 ![image](https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf)
 
+<img src="https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf" width="50px">
+
 <!--[![](https://raw.githubusercontent.com/Tim-8/Tim-8/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Tim-8/Tim-8/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tim-8/Tim-8/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
 <!--[![](https://raw.githubusercontent.com/Tim-8/Tim-8/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tim-8/Tim-8/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
