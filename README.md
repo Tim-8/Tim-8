@@ -5,6 +5,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tim-8&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim-8&theme=merko)
+
 ## Certification
 <img src="https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf" width="100px">
 
