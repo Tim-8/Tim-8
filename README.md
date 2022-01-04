@@ -2,6 +2,9 @@
 
 ![look](https://komarev.com/ghpvc/?username=Tim-8)
 
+[![twitter](https://img.shields.io/twitter/follow/Tim_rob0?label=Twitter&logo=twitter&style=flat)
+](http://twitter.com/Tim_rob0)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-8&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
