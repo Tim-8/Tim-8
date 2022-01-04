@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-8&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&show_icons=true&theme=merko" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Tim-8&theme=merko&show_icons=ture" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&show_icons=true&theme=merko" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Tim-8&theme=merko&show_icons=ture" />
 </p>
 <!--
 **Tim-8/Tim-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
