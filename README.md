@@ -5,10 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tim-8&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf" width="100px">
 
-![image](https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf)
-
-<img src="https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf" width="50px">
+<!--![image](https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf)-->
 
 <!--[![](https://raw.githubusercontent.com/Tim-8/Tim-8/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Tim-8/Tim-8/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tim-8/Tim-8/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
