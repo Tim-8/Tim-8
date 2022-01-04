@@ -8,9 +8,6 @@
 ## Certification
 <img src="https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf" width="100px">
 
-<img src="https://github.com/Tim-8/Tim-8/files/7807671/_CI_AIE_B.pdf" width="100px">
-
-
 <!--![image](https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf)-->
 
 <!--[![](https://raw.githubusercontent.com/Tim-8/Tim-8/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
