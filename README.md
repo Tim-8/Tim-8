@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&show_icons=true&theme=merko" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Tim-8&theme=merko&show_icons=ture" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&show_icons=true&theme=merko" />
+  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=Tim-8&theme=merko&show_icons=ture" />
 </p>
 <!--
 **Tim-8/Tim-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
