@@ -1,6 +1,6 @@
 ### Hi there ! 🎉
 
-![look](https://komarev.com/ghpvc/?username=Tim-8)
+<!--![look](https://komarev.com/ghpvc/?username=Tim-8)-->
 [![twitter](https://img.shields.io/twitter/follow/Tim_rob0?label=Twitter&logo=twitter&style=flat)
 ](http://twitter.com/Tim_rob0)
 [![github](https://img.shields.io/github/followers/Tim-8?label=follow&logo=github&style=flat)
@@ -14,8 +14,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tim-8&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Certification
-<img src="https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf" width="100px">
+<!--## Certification
+<img src="https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf" width="100px">-->
 
 <!--![image](https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf)-->
 
