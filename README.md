@@ -1,10 +1,10 @@
 ### Hi there ! 🎉
 
 <!--![look](https://komarev.com/ghpvc/?username=Tim-8)-->
-[![twitter](https://img.shields.io/twitter/follow/Tim_rob0?label=Twitter&logo=twitter&style=flat)
+<!--[![twitter](https://img.shields.io/twitter/follow/Tim_rob0?label=Twitter&logo=twitter&style=flat)
 ](http://twitter.com/Tim_rob0)
 [![github](https://img.shields.io/github/followers/Tim-8?label=follow&logo=github&style=flat)
-](https://github.com/Tim-8)
+](https://github.com/Tim-8)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
