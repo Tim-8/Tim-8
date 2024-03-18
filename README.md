@@ -6,13 +6,13 @@
 [![github](https://img.shields.io/github/followers/Tim-8?label=follow&logo=github&style=flat)
 ](https://github.com/Tim-8)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-8&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim-8&theme=vue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tim-8&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Tim-8&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <!--## Certification
 <img src="https://github.com/Tim-8/Tim-8/files/7807579/_CI_AIE_B_badge.pdf" width="100px">-->
