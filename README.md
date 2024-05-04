@@ -6,7 +6,7 @@
 [![github](https://img.shields.io/github/followers/Tim-8?label=follow&logo=github&style=flat)
 ](https://github.com/Tim-8)-->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-8&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
