@@ -10,7 +10,7 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-8&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim-8&theme=nord_dark)
+![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim-8&theme=vue)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Tim-8&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)-->
 
